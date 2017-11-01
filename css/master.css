@@ -1,5 +1,5 @@
 html { 
-  background: url('../images/IMG_6398.jpg') no-repeat center center fixed; 
+  background: url('../images/IMG_6398.JPG') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -32,12 +32,6 @@ html {
  .social-links a {
  	color: white;
  }
-
-.chicken {
-	color: white;
-	width: 32px;
- 	height: 32px;
-}
 
  h1 {
  	letter-spacing: 2;
